@@ -1,6 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
 
 import { Query } from "react-apollo";
 import gql from "graphql-tag";
